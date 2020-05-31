@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GitHookDotNet", "GitHookDotNet\GitHookDotNet.csproj", "{D1EF9F60-854D-4893-8823-A3F13E918BAE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D1EF9F60-854D-4893-8823-A3F13E918BAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1EF9F60-854D-4893-8823-A3F13E918BAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1EF9F60-854D-4893-8823-A3F13E918BAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1EF9F60-854D-4893-8823-A3F13E918BAE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {485AAC71-53C2-4A2F-A4B3-B50B3BAC0A2E}
+	EndGlobalSection
+EndGlobal
